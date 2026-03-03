@@ -3,6 +3,8 @@
 
 ### **Enterprise-Grade Gaming Solution for Modern Casinos**
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
+
 **Real-Time Multiplayer • Scalable Architecture • Production-Ready**
 
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=flat-square&logo=laravel)](https://laravel.com)
@@ -14,13 +16,6 @@
 <div align="center">
   <img src="docs/images/user-interface/userinterface.png" alt="User Interface - Game Library" width="1200">
   <p><em>Beautiful and intuitive user interface with game library, easy navigation, and modern design</em></p>
-</div>
-
-<div align="center">
-
-### 📞 **Contact Us on Telegram**
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
-
 </div>
 
 

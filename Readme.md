@@ -1,6 +1,5 @@
 # Professional Casino & Slot Games Platform
 
-<div align="center">
 
 ### **Enterprise-Grade Gaming Solution for Modern Casinos**
 
@@ -20,14 +19,16 @@
 <div align="center">
 
 ### 📞 **Contact Us on Telegram**
-
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
 
-**[👉 Click Here to Contact: @igamezgamble 👈](https://t.me/igamezgamble)**
-
 </div>
-## 🎮 **Game Video**
 
+
+
+<div align="center">
+  <video src="assets/iSoftBet.mp4" controls width="800"></video>
+  <p><em>Game demo video</em></p>
+</div>
 
 ## 🎮 **Supported Game Types**
 

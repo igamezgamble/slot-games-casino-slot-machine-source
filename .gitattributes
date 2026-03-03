@@ -4,3 +4,4 @@
 *.js linguist-vendored
 CHANGELOG.md export-ignore
 *.mmdb filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text

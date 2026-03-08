@@ -1,4 +1,4 @@
-# Professional Casino & Slot Games Platform
+# Casino Game | Slot Game | Online Casino | Gambling
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
 

@@ -11,14 +11,16 @@
 [![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis)](https://redis.io)
 
 <div align="center">
-  <img src="docs/images/user-interface/userinterface.png" alt="User Interface - Game Library" width="1200">
-  <p><em>Beautiful and intuitive user interface with game library, easy navigation, and modern design</em></p>
+    <img width="1894" height="951" alt="image" src="https://github.com/user-attachments/assets/9f9c44fd-1fa0-485c-8f20-50c160238195" />
+    <img width="1894" height="927" alt="image" src="https://github.com/user-attachments/assets/fb99290f-312f-44ef-a846-2882ac2aa797" />
+    <p><em>Beautiful and intuitive user interface with game library, easy navigation, and modern design</em></p>
 </div>
 
 
+<div align="center">
+    <img width="1898" height="934" alt="image" src="https://github.com/user-attachments/assets/ab9fd462-ba56-4895-9d93-5feffe2aad48" />
+</div>
 
-<img width="1894" height="951" alt="image" src="https://github.com/user-attachments/assets/9f9c44fd-1fa0-485c-8f20-50c160238195" />
-<img width="1894" height="927" alt="image" src="https://github.com/user-attachments/assets/fb99290f-312f-44ef-a846-2882ac2aa797" />
 
 
 

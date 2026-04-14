@@ -23,8 +23,6 @@
 
 
 
-
-
 ## 🎮 **Supported Game Types**
 
 ### **1. Slot Games** 🎰
@@ -35,7 +33,7 @@
 - Progressive jackpots
 
 <div align="center">
-  <img src="docs/images/games/slot-game-1.png" alt="Slot Game Example 1" width="1000">
+    <img width="1893" height="1059" alt="image" src="https://github.com/user-attachments/assets/cdf1bd8c-a766-4541-a754-8c5c9efd2c22" />
   <p><em>Premium slot games with stunning graphics and exciting features</em></p>
 </div>
 

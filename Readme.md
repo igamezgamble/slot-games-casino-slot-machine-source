@@ -40,14 +40,12 @@
 #### **Slot Game Gallery**
 
 <div align="center">
-  
 | | | |
 |:---:|:---:|:---:|
-| <img alt="image" src="https://github.com/user-attachments/assets/cc72ca3d-7f29-4803-ad37-1e430843cc14"  alt="Slot Game 2" width="300" /> | <img width="300" alt="image" src="https://github.com/user-attachments/assets/bd07ced5-44f1-4320-8b7c-ce785afcd5b5" /> | <img src="docs/images/games/slot-game-4.png" alt="Slot Game 4" width="300"> | | <img src="docs/images/games/slot-game-5.png" alt="Slot Game 5" width="300"> | <img src="docs/images/games/slot-game-6.png" alt="Slot Game 6" width="300"> | <img src="docs/images/games/slot-game-7.png" alt="Slot Game 7" width="300"> | | <img src="docs/images/games/slot-game-8.png" alt="Slot Game 8" width="300"> | <img src="docs/images/games/slot-game-9.png" alt="Slot Game 9" width="300"> | <img src="docs/images/games/slot-game-10.png" alt="Slot Game 10" width="300"> |
-| <img src="docs/images/games/slot-game-11.png" alt="Slot Game 11" width="300"> | | |
-
-<p><em>Diverse collection of premium slot games with various themes and features</em></p>
-
+| <img src="https://github.com/user-attachments/assets/cc72ca3d-7f29-4803-ad37-1e430843cc14" alt="Slot Game 2" width="300" /> | <img src="https://github.com/user-attachments/assets/bd07ced5-44f1-4320-8b7c-ce785afcd5b5" alt="Slot Game" width="300" /> | <img src="docs/images/games/slot-game-4.png" alt="Slot Game 4" width="300" /> |
+| <img src="docs/images/games/slot-game-5.png" alt="Slot Game 5" width="300" /> | <img src="docs/images/games/slot-game-6.png" alt="Slot Game 6" width="300" /> | <img src="docs/images/games/slot-game-7.png" alt="Slot Game 7" width="300" /> |
+| <img src="docs/images/games/slot-game-8.png" alt="Slot Game 8" width="300" /> | <img src="docs/images/games/slot-game-9.png" alt="Slot Game 9" width="300" /> | <img src="docs/images/games/slot-game-10.png" alt="Slot Game 10" width="300" /> |
+| <img src="docs/images/games/slot-game-11.png" alt="Slot Game 11" width="300" /> | | |
 </div>
 
 ### **2. Arcade Games** 🕹️

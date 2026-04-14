@@ -40,11 +40,25 @@
 #### **Slot Game Gallery**
 
 <div align="center">
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/cc72ca3d-7f29-4803-ad37-1e430843cc14" alt="Slot game" width="300" /> | <img src="https://github.com/user-attachments/assets/bd07ced5-44f1-4320-8b7c-ce785afcd5b5" alt="Slot game" width="300" /> | <img src="docs/images/games/slot-game-4.png" alt="Slot game" width="300" /> |
-| <img src="docs/images/games/slot-game-5.png" alt="Slot game" width="300" /> | <img src="docs/images/games/slot-game-6.png" alt="Slot game" width="300" /> | <img src="docs/images/games/slot-game-7.png" alt="Slot game" width="300" /> |
-| <img src="docs/images/games/slot-game-8.png" alt="Slot game" width="300" /> | <img src="docs/images/games/slot-game-9.png" alt="Slot game" width="300" /> | <img src="docs/images/games/slot-game-10.png" alt="Slot game" width="300" /> |
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top"><img src="IMAGE_URL_1" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="IMAGE_URL_2" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="IMAGE_URL_3" alt="Slot game" width="300" /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="IMAGE_URL_4" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="IMAGE_URL_5" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="IMAGE_URL_6" alt="Slot game" width="300" /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="IMAGE_URL_7" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="IMAGE_URL_8" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="IMAGE_URL_9" alt="Slot game" width="300" /></td>
+    </tr>
+  </tbody>
+</table>
 <p><em>Premium slot games with stunning graphics and exciting features.</em></p>
 </div>
 

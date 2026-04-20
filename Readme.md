@@ -43,19 +43,39 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top"><img src="IMAGE_URL_1" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="IMAGE_URL_2" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="IMAGE_URL_3" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_1.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_2.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_3.png" alt="Slot game" width="300" /></td>
     </tr>
     <tr>
-      <td align="center" valign="top"><img src="IMAGE_URL_4" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="IMAGE_URL_5" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="IMAGE_URL_6" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_4.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_5.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_9.png" alt="Slot game" width="300" /></td>
     </tr>
     <tr>
-      <td align="center" valign="top"><img src="IMAGE_URL_7" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="IMAGE_URL_8" alt="Slot game" width="300" /></td>
-      <td align="center" valign="top"><img src="IMAGE_URL_9" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_16.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_17.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_18.png" alt="Slot game" width="300" /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_19.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_20.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_21.png" alt="Slot game" width="300" /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_22.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_31.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_32.png" alt="Slot game" width="300" /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_33.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_34.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_35.png" alt="Slot game" width="300" /></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_36.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_37.png" alt="Slot game" width="300" /></td>
+      <td align="center" valign="top"><img src="assets/images/Screenshot_38.png" alt="Slot game" width="300" /></td>
     </tr>
   </tbody>
 </table>

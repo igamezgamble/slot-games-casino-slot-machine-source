@@ -1,8 +1,10 @@
 # Casino Game | Slot Game | Online Casino | Gambling
 
+> **Repository notice:** This GitHub version is **not** a complete, turnkey-ready release-it is in private repo. If you want a **fully turnkey website**, contact us on **[Telegram](https://t.me/igamezgamble)**. This product is **for sale** (commercial offering).
+
 [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Us-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igamezgamble)
 
-**Real-Time Multiplayer • Scalable Architecture • Production-Ready**
+**Real-Time Multiplayer • Scalable Architecture**
 
 [![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=flat-square&logo=laravel)](https://laravel.com)
 [![Node.js](https://img.shields.io/badge/Node.js-14+-339933?style=flat-square&logo=node.js)](https://nodejs.org)
